@@ -7,5 +7,5 @@
   - `eval-class-variable.rb`
   - `evil_class_var_extend.rb`
   - `evil_class_var_include.rb`
-5. jeweler, and a meta way of getting methods
+5. jeweler: <https://github.com/technicalpickles/jeweler>
 
